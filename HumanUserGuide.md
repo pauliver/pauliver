@@ -75,7 +75,7 @@ This is a template to help you create your own human user guide. The goal of a h
 ### How do you coach people to do their best work and develop their talents?
 > *Tell us how you like to help others.*
 
-![BossVSLeader](./Images/BossLeader.jpg "Boss VS Leader")
+![BossVSLeader](./storage/BossLeader.jpg "Boss VS Leader")
 	
 ### What’s the best way to communicate with you?
 > *If you hate emails, tell us. If you prefer a quick zoom over a 15 min write up, tell us.*
