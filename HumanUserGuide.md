@@ -1,18 +1,11 @@
-## Bio
-
-I have a passion for helping folks accomplish their dreams, mostly in the game space. I have launchned several developer platforms and ecosystems
-- Gamebryo Light Speed
-- Unreal Engine 4
-   - Unreal Engine 4 Public
-- Magic Leap One
-
 ---
 Template Available: https://gist.github.com/pauliver/df823b8213df9f7e3b29cf4f84707af5
----
-# Human User Guide 
-This is a template to help you create your own human user guide. The goal of a human user guide is to make working together and collaboration with colleagues easier, faster. The focus for this user guide is on the workplace. As such, many of the questions are geared towards information that would be pertinent to your colleagues.
 
-## About me
+**Human User Guide** 
+This is a template to help you create your own human user guide. The goal of a human user guide is to make working together and collaboration with colleagues easier, faster. The focus for this user guide is on the workplace. As such, many of the questions are geared towards information that would be pertinent to your colleagues.
+---
+
+# About me
 
 ### What are some honest, unfiltered things about you?
 - I love it when technology helps people interact in the world today, in ways we would describe as "Movie Magic" a decade ago
