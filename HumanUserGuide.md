@@ -27,7 +27,7 @@ This is a template to help you create your own human user guide. The goal of a h
 - Loves to grill / smoke meat
 - I try not to re-invent when I can beg/borrow/steal
 
-- mildly dysleix 
+- mildly dyslexic 
 	
 ### What drives you nuts?
 > *Tell us about your pet peeves. These are things that put you in a bad mood.*
