@@ -21,7 +21,12 @@ This is a template to help you create your own human user guide. The goal of a h
 - I try not to re-invent when I can beg/borrow/steal
 
 - mildly dyslexic 
-	
+
+### When are you available?
+
+I enjoy mornings, and am at my best then. I prefer to work 8am PST to 5pm PST when possible.
+
+
 ### What drives you nuts?
 > *Tell us about your pet peeves. These are things that put you in a bad mood.*
 - **Lack of respect for time**
