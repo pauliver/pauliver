@@ -7,6 +7,7 @@ _“A human being should be able to change a diaper, plan an invasion, butcher a
 I'm currently testing out this GitHub Personal Readme functionality. We'll have to see what the best use of it is in the long run, today I'm going to link to a few projects:
 - https://github.com/pauliver/Awesome-Games - a list of gameing related stuff on GitHub
 - https://github.com/Unreal-UX/KeepUnrealForkUpdated an Action to keep your Unreal Engine fork up to date
+- https://github.com/Unreal-UX/UE a template repo to speed up your UE Development
 - https://github.com/photography (and https://gallerytest.pauliver.com/ ) are a way to host your photos on github.  (_let me know if it's broken, i try and keep it working_)
 
 You might also be interested in
