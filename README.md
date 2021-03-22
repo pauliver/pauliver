@@ -14,3 +14,10 @@ You might also be interested in
 - https://pauliver.com/
 - https://www.linkedin.com/in/pauliver/
 
+Curently: Xbox @ Microsoft
+Previously
+- GitHub
+- MagicLeap
+- Epic Games
+- Emergent Game Tech
+- _Founder_ Legendary Studios LLC
