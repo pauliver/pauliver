@@ -97,8 +97,9 @@ if you need coaching, don't hesitate to ask
 ### How do you like to give feedback?
 > *Tell us the modes, means, timing, approach, and level of detail you like to employ when giving feedback, and why that's so.*
 
+I prefer to give feedback, in the way you want to recieve it. 
 
 ### How do you like to get feedback?
 > *Tell us the modes, means, timing, approach, and level of detail you like to see others employ when giving you feedback, and why that's so.*
 
-
+Immediatly, and often. Let me know how I can best work with you, let me know what behaviors you value, how can I get the best work out of you?
