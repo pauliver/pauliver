@@ -15,9 +15,10 @@ You might also be interested in
 - https://www.linkedin.com/in/pauliver/
 
 *Curently:* 
-- Xbox @ Microsoft
+- Riot Games 
 
 Previously:
+- Xbox @ Microsoft
 - GitHub
 - MagicLeap
 - Epic Games
